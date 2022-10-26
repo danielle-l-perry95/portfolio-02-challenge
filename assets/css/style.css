@@ -29,6 +29,8 @@ body{
 }
 
 .profile-pic img{
+    display: flex;
+    justify-content: end;
     
 }
 .about-me {
@@ -62,16 +64,7 @@ nav{
     border-color:rgb(116, 190, 190); 
 }
 
-.project-1,
-.project-2,
-.project-3
-.project-4{
-    display:flex;
-    flex-wrap:grid;
-    text-align: right;
-    width:auto;
 
-}
 @media screen and (max-width 768px){
     nav{
             flex-direction: column;
