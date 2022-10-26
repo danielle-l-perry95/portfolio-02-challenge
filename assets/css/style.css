@@ -3,13 +3,14 @@ body{
     margin: 0;
 }
 
-.main-header {
-    justify-content:center;
-    margin:auto
+.main-header,
+.about-me {
+    text-align: center;
     background-color: white;
     border-style: solid;
     border-width: 5px;
     border-color:powderblue;
     padding: 40px;
+    margin: 0,50,0,50
     
 }
