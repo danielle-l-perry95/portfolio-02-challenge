@@ -9,19 +9,28 @@ body{
 }
 
 .main-header{
-        font-size: large;
         color: white;
         display: flex;
         flex-wrap: wrap;
-        text-align: center;
         background-color: rgb(85, 83, 197);
         border-style: solid;
         border-width: 5px;
         border-color:rgb(0, 0, 0);
-        padding: 40px;
+        padding: 30px;
         margin: auto;
+        width: 50%;
+        
 }
 
+.h1{
+    text-align: center;
+    font-size: large;
+    
+}
+
+.profile-pic img{
+    
+}
 .about-me {
     display: flex;
     flex-wrap: wrap;
