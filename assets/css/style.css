@@ -28,9 +28,10 @@ body{
     
 }
 
-.profile-pic img{
-    display: flex;
-    justify-content: end;
+.float-right{
+    float: right;
+    margin: 30px;
+
     
 }
 .about-me {
@@ -46,7 +47,11 @@ body{
     
 }
 
- 
+ .h2{
+    float: left;
+    margin: 20px;
+ }
+
 aside{
     left: 0;
     width: 300px;
