@@ -63,12 +63,12 @@ aside{
     padding: 20px;
 }
 
-nav{
-    flex: 3;
-    border-style:solid;
-    border-color:rgb(116, 190, 190); 
+.project-1 img,
+.project-2 img,
+.project-3 img,
+.project-4 img{
+    display: grid;
 }
-
 
 @media screen and (max-width 768px){
     nav{
