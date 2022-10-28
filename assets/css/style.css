@@ -20,6 +20,7 @@ body{
         
 }
 
+
 .h1{
     text-align: center;
     font-size: large;
@@ -29,7 +30,6 @@ body{
 .float-right{
     float: right;
     margin: 30px;
-
     
 }
 .about-me {
@@ -58,7 +58,7 @@ aside{
     border-style: dotted;
     border-color: lightcoral;
     background-color:#d8a47f; 
-    padding: 20px;
+    padding: 10px;
 }
 
 .project-1 img,
