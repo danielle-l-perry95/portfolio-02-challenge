@@ -72,7 +72,7 @@ aside{
 }
 
 
-.placeholder-img{
+.placeholder-img-1{
     background-image: url("../images/appscreen.jpg");
     width: 250px;
     height:300px;
@@ -81,11 +81,29 @@ aside{
     text-decoration: none;
 }
 
-.placeholder-img h4{
+.placeholder-img-1 h4{
     display: flex;
     justify-content: center;
     font-size: large;
     color: antiquewhite;
+    background-color: navy;
+}
+
+.placeholder-img-2{
+    background-image: url("../images/laptopwithgears.png")
+    width: 250px;
+    height:300px;
+    background-repeat: no-repeat;
+    object-fit: contain;
+    text-decoration: none;
+}
+
+.placeholder-img-2 h4{
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    color: antiquewhite;
+    background-color: navy;
 }
 
 
