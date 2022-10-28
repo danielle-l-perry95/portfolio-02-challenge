@@ -9,9 +9,11 @@
 </head>
 <body>
     <header class="main-header">
-        <h1><strong>About Me</strong></h1>
-        <section>
-        <img class="float-right" src="./assets/images/20221026_144018.jpg" alt="profile picture"
+        <div class="about-me-wrapper">
+        <h1>About Me</h1>
+        </div>
+        <section class="img-container">
+        <img src="./assets/images/20221026_144018.jpg" alt="profile picture"
         style="object-fit: scale-down;
         width:200px;
         height:300px;"/>
@@ -49,32 +51,33 @@
         width="200" height="200"
         alt="a person standing infront of a laptop"/>
     </section>
-        <section>
-        <div class="project-1">
-            <h4>Sample Project 1</h4>
-            <img
-                src="./assets/images/appscreen.jpg"
-                alt="a phone screen with apps displayed"
-                style="object-fit: scale-down; width:200px; height:300px;"/>
-        <div class="project-2">
+        <section class="project-wrapper">
+            <a href="#" class="placeholder-img">
+                <h4>Sample Project 1</h4>
+            </a>
+        <div class="projects">
             <h4>Sample Project 2</h4>
             <img
                 src="./assets/images/laptopwithgears.png"
                 alt="a laptop with binary code and gears"
                 style="object-fit: scale-down; width:200px; height:300px;"/>
-        <div class="project-3">
-            <h4>Sample Project 3</h4>
+        </div>
+        <div class="projects">
+            <span>Sample Project 3</span>
             <img 
                 src="./assets/images/powerbutton.jpg"
                 alt="a blue power button"
                 style="object-fit: scale-down; width:200px; height:300px;"/>
-        <div class="project-4">
+         </div>
+        <div class="projects">
             <h4>Sample Project 4</h4>
             <img
                 src="./assets/images/webdev.png"
                 alt="a person standing infront of a laptop"
                 style="object-fit: scale-down; width:200px; height:300px;"/>
+        </div>
     </section>
     </nav>
 </body>
 </html>
+src="./assets/images/appscreen.jpg"
