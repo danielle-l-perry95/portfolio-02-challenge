@@ -123,6 +123,23 @@ aside{
     background-color: navy;
 }
 
+.placeholder-img-4{
+    background-image: url("../images/webdev.png")
+    width: 250px;
+    height:300px;
+    background-repeat: no-repeat;
+    object-fit: contain;
+    text-decoration: none;
+}
+
+.placeholder-img-4 h4{
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    color: antiquewhite;
+    background-color: navy;
+}
+
 
 
 
