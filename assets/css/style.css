@@ -59,6 +59,14 @@ aside{
 
 }
 
+#github-link:link{
+    color: blue;
+}
+
+#github-link:visited{
+    color: red;
+}
+
 
 .project-wrapper{
     display: flex;
