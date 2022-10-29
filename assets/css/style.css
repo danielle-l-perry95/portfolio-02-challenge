@@ -140,6 +140,18 @@ aside{
     background-color: navy;
 }
 
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: powderblue;
+    border-radius: 5px;
+    border-color: #d8a47f;
+}
+
+span::after{
+    content: '❤️';
+}
+
 
 
 
