@@ -4,6 +4,7 @@
 body{
     font-family: 'Courier New', Courier, monospace;
     margin: 10px;
+    background: rgb(238, 233, 247);
 }
 
 .main-header{
@@ -38,7 +39,6 @@ body{
     display: flex;
     flex-wrap: wrap;
     text-align: center;
-    background-color: white;
     border-style: solid;
     border-width: 5px;
     border-color:powderblue;
