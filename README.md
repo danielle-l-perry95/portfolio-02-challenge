@@ -12,5 +12,6 @@ individual's projects, employeers can utilize this to make hiring decisions. The
 
 #### Links
 (link to deployed website)
-(screenshot of deployed website)
-
+https://github.com/danielle-l-perry95/portfolio-02-challenge
+![Screenshot-1](./assets/images/Screenshot-02Challenge-1.png)
+![Screenshot-2](./assets/images/Screenshot-02Challenge-2.png)
