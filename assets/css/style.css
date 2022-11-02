@@ -81,6 +81,16 @@ aside{
     background-size: cover;
 }
 
+.image-1{
+    width: 400px;
+    height: 400px;
+    background-repeat: no-repeat;
+    object-fit: contain;
+    text-decoration: none;
+    background-position: center;
+    background-size: cover;
+}
+
 h4{
     display: flex;
     justify-content: center;
