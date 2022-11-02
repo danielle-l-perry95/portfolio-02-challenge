@@ -71,75 +71,43 @@ aside{
 
 }
 
+.project{
+    width: 250px;
+    height: 300px;
+    background-repeat: no-repeat;
+    object-fit: contain;
+    text-decoration: none;
+    background-position: center;
+    background-size: cover;
+}
 
-.placeholder-img-1{
+h4{
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    color: antiquewhite;
+    background-color: navy;
+}
+
+#placeholder-img-1{
     background-image: url("../images/appscreen.jpg");
-    width: 250px;
-    height: 300px;
-    background-repeat: no-repeat;
-    object-fit: contain;
-    text-decoration: none;
+    
 }
 
-.placeholder-img-1 h4{
-    display: flex;
-    justify-content: center;
-    font-size: large;
-    color: antiquewhite;
-    background-color: navy;
-}
-
-.placeholder-img-2{
+#placeholder-img-2{
     background-image: url("../images/laptopwithgears.png");
-    width: 250px;
-    height: 300px;
-    background-repeat: no-repeat;
-    object-fit: contain;
-    text-decoration: none;
+   
 }
 
-.placeholder-img-2 h4{
-    display: flex;
-    justify-content: center;
-    font-size: large;
-    color: antiquewhite;
-    background-color: navy;
-}
-
-.placeholder-img-3{
+#placeholder-img-3{
     background-image: url("../images/powerbutton.jpg");
-    width: 250px;
-    height:300px;
-    background-repeat: no-repeat;
-    object-fit: contain;
-    text-decoration: none;
+
 }
 
-.placeholder-img-3 h4{
-    display: flex;
-    justify-content: center;
-    font-size: large;
-    color: antiquewhite;
-    background-color: navy;
-}
-
-.placeholder-img-4{
+#placeholder-img-4{
     background-image: url("../images/webdev.png");
-    width: 250px;
-    height:300px;
-    background-repeat: no-repeat;
-    object-fit: contain;
-    text-decoration: none;
+    
 }
-
-.placeholder-img-4 h4{
-    display: flex;
-    justify-content: center;
-    font-size: large;
-    color: antiquewhite;
-    background-color: navy;
-}
-
 
 footer{
     display: flex;
