@@ -54,6 +54,8 @@ aside{
 
 }
 
+/*Changes the color of the links before and after clicking*/
+
 #github-link:link{
     color: blue;
 }
@@ -91,6 +93,7 @@ aside{
     background-size: cover;
 }
 
+/* All of the sample project headings are in the same h4 class */
 h4{
     display: flex;
     justify-content: center;
@@ -98,7 +101,7 @@ h4{
     color: antiquewhite;
     background-color: navy;
 }
-
+/*Links each of the placeholder images in id's */
 #placeholder-img-1{
     background-image: url("../images/appscreen.jpg");
     
@@ -131,6 +134,7 @@ span::after{
     content: '❤️';
 }
 
+/*Media Query section that changes the layout when viewport width shrinks*/
 
 @media screen and (max-width: 768px){
     nav{
